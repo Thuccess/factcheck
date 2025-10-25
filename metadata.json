@@ -1,0 +1,5 @@
+{
+  "name": "Fact-Checker AI",
+  "description": "An AI-powered journalist that fact-checks news, claims, and social media posts using reliable online data. It classifies statements, provides explanations, and cites sources to combat misinformation.",
+  "requestFramePermissions": []
+}
